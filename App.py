@@ -116,9 +116,9 @@ with tab3:
     with col2:
         gender=st.radio("Select your gender ", ( "F","M"), horizontal=True, key="gender")
         if gender == "F":
-            st.image("Images/8cfhv6q8_rashmika-mandanna_625x300_05_April_24.webp")
+            st.image("8cfhv6q8_rashmika-mandanna_625x300_05_April_24.webp")
         if gender == "M":
-            st.image("Images/shah-rukh-khan-injured-during-king-shoot-in-mumbai-flies-to-us-for-treatment-report-when-will-srk-return.avif  ")
+            st.image("shah-rukh-khan-injured-during-king-shoot-in-mumbai-flies-to-us-for-treatment-report-when-will-srk-return.avif  ")
 
     with col3:
         st.text_input("Email :", key="email")
