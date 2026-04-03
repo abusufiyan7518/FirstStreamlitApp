@@ -118,7 +118,7 @@ with tab3:
         if gender == "F":
             st.image("8cfhv6q8_rashmika-mandanna_625x300_05_April_24.webp")
         if gender == "M":
-            st.image("shah-rukh-khan-injured-during-king-shoot-in-mumbai-flies-to-us-for-treatment-report-when-will-srk-return.avif  ")
+            st.image("image.png")
 
     with col3:
         st.text_input("Email :", key="email")
